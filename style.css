@@ -112,6 +112,12 @@ img { display: block; max-width: 100%; height: auto; }
   letter-spacing: 0.02em;
   color: var(--green);
 }
+.hero h1 .eyebrow {
+  display: block;
+  margin-bottom: 22px;
+  font-family: var(--body);
+  line-height: 1.6;
+}
 .hero h1 small {
   display: block;
   margin-top: 0.5rem;
