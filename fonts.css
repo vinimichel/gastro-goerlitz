@@ -1,0 +1,23 @@
+/* Self-hosted web fonts (SIL Open Font License), latin subset.
+   Served from this site so no visitor data is sent to Google Fonts. */
+@font-face {
+  font-family: 'Albert Sans';
+  font-style: normal;
+  font-weight: 400 600;
+  font-display: swap;
+  src: url(fonts/albert-sans-latin.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Albert Sans';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(fonts/albert-sans-italic-latin.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Marcellus';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(fonts/marcellus-latin.woff2) format('woff2');
+}
